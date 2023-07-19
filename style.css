@@ -78,15 +78,15 @@ h2:after {
 
 
 header {
-	background-color: #fff;
+	background-color: #FCDFA6;
 	color: #555;
-	background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(https://upload.wikimedia.org/wikipedia/en/3/36/Layered_rainbow_gradient_from_photoshop_default_settings.jpg);
-	background-size: cover;
+	/* --background-size: cover;
 	background-position: center;
 	height: 100vh;
-	background-attachment: fixed;
+	background-attachment: fixed; --*/
 }
 
+/*
 .header-text-box {
 	position: relative;
 	width: 330px;
@@ -143,3 +143,4 @@ header {
 .navlinks li a:active {
 	border-bottom: 2px solid rebeccapurple;
 }
+*/
